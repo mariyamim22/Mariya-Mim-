@@ -1,1 +1,65 @@
-এখানের টেক্সট গুলো কেটে আপনার ফেসবুক আইডির কুকি বসান ✅
+[
+    {
+        "key": "datr",
+        "value": "SJwWaSpi_u4CzUxBcgnXf22_",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-14T03:05:57.226Z",
+        "lastAccessed": "2025-11-14T03:05:57.226Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-14T03:05:57.226Z",
+        "lastAccessed": "2025-11-14T03:05:57.226Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B670x393x2.75",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-14T03:05:57.226Z",
+        "lastAccessed": "2025-11-14T03:05:57.226Z"
+    },
+    {
+        "key": "sb",
+        "value": "XpwWaVWVVKVWULbOtO7cj2g8",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-14T03:05:57.226Z",
+        "lastAccessed": "2025-11-14T03:05:57.226Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "2.75",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-14T03:05:57.226Z",
+        "lastAccessed": "2025-11-14T03:05:57.226Z"
+    },
+    {
+        "key": "wd",
+        "value": "393x873",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-14T03:05:57.226Z",
+        "lastAccessed": "2025-11-14T03:05:57.226Z"
+    },
+    {
+        "key": "fr",
+        "value": "0k7grDDLphigXy0Ne..BpFpxI..AAA.0.0.BpFpyS.AWdF5LnwFfReAmUb9VFLvYeKdvk",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-11-14T03:05:57.226Z",
+        "lastAccessed": "2025-11-14T03:05:57.226Z"
+    }
+]
